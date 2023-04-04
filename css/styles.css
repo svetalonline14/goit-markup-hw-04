@@ -196,7 +196,7 @@
         url(../images/hero-bg.jpg);
         background-repeat: no-repeat;
         background-position: center;
-        block-size: cover;
+        background-size: cover;
     }  
 
     .hero-title {
