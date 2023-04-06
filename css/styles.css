@@ -546,8 +546,8 @@
     .filter-list-btn:focus {
         color: var(--title-hero-color-white);
         background-color: var(--active-color-ocean);
-        border: 0;
-        border-radius: 4px;
+        border-color: var(--active-color-ocean);
+       
         box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
     }
 
